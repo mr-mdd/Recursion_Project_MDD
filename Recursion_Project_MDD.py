@@ -1,6 +1,3 @@
-import numpy as np
-
-
 INF = 99999  # Define a large enough value for infinity
 V = 4  # Number of vertices in the graph
 
