@@ -1,1 +1,2 @@
+python==3.x
 numpy==1.21.2
